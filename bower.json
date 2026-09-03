@@ -1,7 +1,7 @@
 {
   "name": "adapt-knowmore",
   "version": "1.0.0",
-  "framework": ">=5.19.1",
+  "framework": ">=5.56.1",
   "component": "knowMore",
   "targetAttribute": "_knowmore",
   "displayName": "KnowMore",
