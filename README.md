@@ -1,6 +1,8 @@
 # adapt-knowMore
  **knowMore** is a presentation component. It provides a box with title, icon, text and links. 
 
+ <img src="https://github.com/pmacstronger-rgb/adapt-images-assets/blob/main/knowmore.png">
+
 ## Limitations
 
 No known limitations.
